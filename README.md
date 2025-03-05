@@ -3,7 +3,7 @@
 
 **Símbolo da Justiça | Justiça e Compromisso**
 
-Este projeto fictício é inspirado na minha mãe, **Jéssica Lorena**, uma advogada especializada em **direito trabalhista** com mais de 10 anos de experiência, defendendo os direitos de seus clientes com excelência e dedicação. Este site foi desenvolvido para representar sua carreira e fornecer uma solução digital moderna para agendamentos e informações sobre os serviços oferecidos.
+Este projeto fictício é inspirado na minha irma, **Jéssica Lorena**, uma advogada especializada em **direito trabalhista** com mais de 10 anos de experiência, defendendo os direitos de seus clientes com excelência e dedicação. Este site foi desenvolvido para representar sua carreira e fornecer uma solução digital moderna para agendamentos e informações sobre os serviços oferecidos.
 
 ## Visão Geral
 
