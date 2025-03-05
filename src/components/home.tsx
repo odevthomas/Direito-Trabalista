@@ -24,14 +24,10 @@ interface HomeProps {
 const Home = ({ onContactSubmit = () => {} }: HomeProps) => {
   return (
     <div className="min-h-screen bg-white">
-      <Header />
-
-      {/* Hero Section */}
-      <div className="pt-20">
+   
         <HeroSection />
-      </div>
+      
 
-      {/* Services Section */}
       <ServiceGrid />
 
       {/* Contact Section */}
